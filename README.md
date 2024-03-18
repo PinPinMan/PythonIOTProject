@@ -14,7 +14,6 @@
 <hr>
 
 # Flow of Program:
-<hr>
 
 ### Start Telegram Bot;
 
@@ -28,7 +27,6 @@
 <hr>
 
 # Dependencies:
-<hr>
 
 ### Set up;
 -   Python Raspberry Pi doesn’t have ALL the libraries that we need. Hence, we need to go to the TERMINAL and install our libraries.
@@ -37,7 +35,6 @@
 <hr>
 
 # Hardware:
-<hr>
 
 ### Movement;
 -   DC- Motor
@@ -57,7 +54,6 @@
 <hr>
 
 # Telegram:
-<hr>
 
 ### Commands;
 -   **about** - give a description of bot & rack
@@ -69,8 +65,7 @@
 -   **keypad** - allows 1 key to be pressed
 <hr>
 
-### Weather API:
-<hr>
+# Weather API:
 
 ### Location (Coordinates);
 -   http://api.openweathermap.org/geo/1.0/reverse?lat={coord['lat']}&lon={coord['lon']}&appid={api_key}
